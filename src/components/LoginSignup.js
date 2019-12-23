@@ -109,7 +109,7 @@ export default class LoginSignup extends React.Component {
           <header className="Logo-header">
             <img className="logo" src={logo} alt="Logo"/>
             <span style={{fontSize: "36px", marginTop: "20px"}}>
-              Sample App
+              Test App
             </span>
           </header>
           <form className="clr-form" style={{marginTop: "20px"}}>
